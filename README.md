@@ -15,13 +15,27 @@
 
 <!-- -->
 
-    Run the code chunk 'versions' at least once successfully.
+    Installations found:
+      < R version 4.5.2 (2025-10-31) >
+      RStudio version: < 2026.1.0.392 >
+      < git version 2.52.0 >
 
 - Connection to git
 
 <!-- -->
 
     Run the code chunk 'gitconnection' at least once successfully.
+    ✔ Setting active project to "/Users/anhcynguyen/getting-started-AnhNguyen331".
+    Project Path:  /Users/anhcynguyen/getting-started-AnhNguyen331 
+    Git repository detected.
+    GitHub Remote(s):
+    [1] "origin"
+
+    Checking pull access...
+    Pull rights: YES 
+
+    Checking push access...
+    Push rights: YES 
 
 5.  Create the `README.md` file by rendering the `README.Rmd` file
 
